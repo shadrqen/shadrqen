@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **React, MongoDB, GraphQL**
 
-- 👨‍💻 All of my projects are available at [rotikengisa.com](rotikengisa.com)
+- 👨‍💻 All of my projects are available at [rotikengisa.com](https://rotikengisa.com)
 
 - 💬 Ask me about **JavaScript, Vue.js, Node.js, Express.js, Docker, Kubernetes, Git**
 
