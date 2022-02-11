@@ -8,11 +8,9 @@
 
 - 🔭 I’m currently working on [EssaySpring](https://github.com/shadrqen/essayspring)
 
-- 🌱 I’m currently learning **React, MongoDB, GraphQL**
-
 - 👨‍💻 All of my projects are available at [rotikengisa.com](https://rotikengisa.com)
 
-- 💬 Ask me about **JavaScript, Vue.js, Node.js, Express.js, Docker, Kubernetes, Git**
+- 💬 Ask me about **JavaScript, TypeScript, Vue.js, Node.js, Express.js, MQTT, Docker, Kubernetes, Git**
 
 - 📫 How to reach me **https://twitter.com/shadrqen**
 
