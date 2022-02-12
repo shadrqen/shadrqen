@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [rotikengisa.com](https://rotikengisa.com)
 
-- 💬 Ask me about **JavaScript, TypeScript, Vue.js, Node.js, Express.js, MQTT, Docker, Kubernetes, Git**
+- 💬 Ask me about **JavaScript, TypeScript, Vue.js, Node.js, Express.js, MQTT, Docker, Kubernetes and Git**
 
 - 📫 How to reach me **https://twitter.com/shadrqen**
 
