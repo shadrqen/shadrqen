@@ -6,7 +6,7 @@
 
 <br />
 
-- 🔭 I’m currently working on [EssaySpring](https://github.com/shadrqen/essayspring)
+- 🔭 I’m currently working on [Petshop](https://github.com/shadrqen/petshop)
 
 - 👨‍💻 All of my projects are available at [rotikengisa.com](https://rotikengisa.com)
 
