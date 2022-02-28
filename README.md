@@ -6,7 +6,7 @@
 
 <br />
 
-- 🔭 I’m currently working on [Petshop](https://github.com/shadrqen/petshop)
+- 🔭 I’m currently working on [Petshop](https://github.com/shadrqen/petshop), an e-commerce store for pet products
 
 - 👨‍💻 All of my projects are available at [rotikengisa.com](https://rotikengisa.com)
 
