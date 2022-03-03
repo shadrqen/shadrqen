@@ -6,7 +6,7 @@
 
 <br />
 
-- 🔭 I’m currently working on [Petshop](https://github.com/shadrqen/petshop), an e-commerce store for pet products
+- 🔭 I’m currently working on [vuex-persistor](https://github.com/shadrqen/vuex-persistor), a Vuex4 and Vue3-ready plugin that saves and rehydrates the state of your application between page reloads 
 
 - 👨‍💻 All of my projects are available at [rotikengisa.com](https://rotikengisa.com)
 
