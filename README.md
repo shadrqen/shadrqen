@@ -11,9 +11,3 @@
 - 👨‍💻 All of my projects are available at [rotikengisa.com](https://rotikengisa.com). Reach on [LinkedIn](https://linkedin.com/in/shadrack-rotiken)
 
 - 💬 Ask me about **JavaScript, TypeScript, Vue.js, Node.js, Express.js, MQTT, Docker, Kubernetes and Git**
-
-<br />
-
-## &#x1f4c8; GitHub Stats
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shadrqen&" alt="shadrqen" /></p>
