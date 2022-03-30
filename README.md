@@ -1,4 +1,4 @@
-<h2 align="center">Hello there 👋, I'm Rotiken Gisa</h2>
+<h2 align="center">Hi there 👋, I'm Rotiken Gisa</h2>
 
 <br />
 
