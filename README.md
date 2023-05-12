@@ -2,7 +2,7 @@
 
 <br />
 
-- 🔭 I’m currently working on [vuex-persistor](https://github.com/shadrqen/vuex-persistor), a Vuex4 and Vue3-ready plugin that saves and rehydrates the state of your application between page reloads 
+- 🔭 I've been working on quite a number of projects, one of which is [vuex-persistor](https://github.com/shadrqen/vuex-persistor). It is a Vuex4 and Vue3-ready plugin that saves and rehydrates the state of your application between page reloads 
 
 - 👨‍💻 All of my projects are available at [rotikengisa.com](https://rotikengisa.com). Reach me on [LinkedIn](https://linkedin.com/in/shadrack-rotiken)
 
